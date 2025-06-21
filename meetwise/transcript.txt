@@ -1,0 +1,3 @@
+John: We need to deploy the backend by Friday.
+Sara: I will test all modules by Wednesday.
+Mike: I will fix the UI bugs and update the dashboard.
