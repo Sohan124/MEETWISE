@@ -18,7 +18,8 @@ This project was built as part of the **Mini Hackathon** under the **AI Agents W
 
 ## 🖥️ Demo Video
 
-🎥 [Watch the YouTube demo here](YOUR_VIDEO_LINK_HERE)
+🎥 [Watch the YouTube demo here]
+https://youtu.be/qCzt5H_XFaA?si=2WgLU0GVTxRUP6GQ
 
 ---
 
